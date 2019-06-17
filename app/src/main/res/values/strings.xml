@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Palindrome Checker</string>
+    <string name="prompt">Type a String:</string>
+    <string name="btn_submit">Check if Palindrome!</string>
+    <string name="is_palindrome">Its a Palindrome!</string>
+    <string name="not_palindrome">NOT a Palindrome</string>
+    <string name="prompt_hint">String to check</string>
+    <string name="btn_reset">Reset</string>
+</resources>
